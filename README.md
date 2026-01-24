@@ -37,11 +37,8 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hinduja30&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=555" width="480px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinduja30&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=555" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hinduja30&show_icons=true&theme=radical" alt="Hinduja's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinduja30&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
