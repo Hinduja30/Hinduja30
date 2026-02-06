@@ -37,26 +37,10 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ### 📊 Engineering Metrics
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" style="padding: 0;">
-        <img 
-          src="https://github-readme-stats-fast.vercel.app/api?username=Hinduja30&show_icons=true&theme=radical" 
-          height="195" 
-          alt="GitHub Stats" 
-        />
-      </td>
-      <td valign="top" style="padding: 0; border-left: 1px solid #333;">
-        <img 
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hinduja30&layout=compact&theme=radical&hide_border=true" 
-          height="195" 
-          alt="Top Languages" 
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hinduja30&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hinduja30&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hinduja30&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
