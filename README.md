@@ -1,7 +1,7 @@
 # Hinduja C
-**Software Engineer | Front-End Specialist | Blockchain Enthusiast**
+**Software Engineer | Front-End Expert | Aspiring Cloud Architect**
 
-<p align="left">
+<p align="left"> 
   <a href="https://www.linkedin.com/in/hinduja-c-528306246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,7 +13,7 @@
 ---
 
 ### 🖋️ Profile Summary
-I am a **Software Engineer** dedicated to crafting high-performance, user-centric web applications. With a strong foundation in the **MERN stack**, I am currently bridging the gap between traditional Web2 interfaces and the evolving **Blockchain (Web3)** ecosystem. My focus lies in writing clean, maintainable code and solving complex architectural challenges.
+I am a **Software Engineer** dedicated to crafting high-performance, user-centric web applications with a focus on **Cloud-Native architecture**. With a strong foundation in the **MERN stack**, I specialize in bridging the gap between seamless Front-End experiences and scalable backend infrastructure. My expertise lies in building resilient, distributed systems, optimizing deployment pipelines, and leveraging cloud services to solve complex architectural challenges.
 
 ---
 
@@ -43,10 +43,27 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ---
 
-### 🎯 Professional Goals
-* **Open Source:** Actively seeking to contribute to core Blockchain protocols.
-* **Architecture:** Mastering Advanced System Design and Micro-frontend patterns.
-* **Innovation:** Bridging user experience with decentralized technology.
+<!--
+## ☁️ Cloud & Infrastructure Philosophy
+
+I focus on building resilient, data-driven applications by implementing modern cloud-native principles:
+
+| Pillar | Focus | Approach |
+| :--- | :--- | :--- |
+| **Observability** | Performance Insights | Leveraging **Grafana** and **Datadog** to gain real-time telemetry and deep-stack visibility. |
+| **Scalability** | Growth Management | Designing for **Horizontal Scaling** to handle high-traffic loads across distributed nodes. |
+| **Infrastructure as Code** | Automation | Utilizing **Terraform** and **Pulumi** to treat infrastructure as versioned, reproducible code. |
+| **Resiliency** | High Availability | Architecting fault-tolerant systems that maintain uptime during regional outages or failures. |
+
+---
+-->
+
+### 🛠️ Technical Deep Dive
+
+* **Observability:** Moving beyond simple logging to full-stack tracing. I believe if you can't measure it, you can't improve it.
+* **Scalability:** Expert at transitioning monolithic MERN apps into microservices that scale out (Horizontal) rather than just scaling up (Vertical).
+* **IaC:** Eliminating "Snowflake Servers" by automating environment provisioning for dev, staging, and production.
+* **Resiliency:** Implementing health checks, circuit breakers, and multi-zone deployments to ensure 99.9% reliability.
 
 ---
 
