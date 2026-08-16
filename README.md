@@ -1,7 +1,7 @@
 # Hinduja C
 **Software Engineer | Front-End Expert | Aspiring Cloud Architect**
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.linkedin.com/in/hinduja-c-528306246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -12,12 +12,12 @@
 
 ---
 
-### 🖋️ Profile Summary
+### Profile Summary
 I am a **Software Engineer** dedicated to crafting high-performance, user-centric web applications with a focus on **Cloud-Native architecture**. With a strong foundation in the **MERN stack**, I specialize in bridging the gap between seamless Front-End experiences and scalable backend infrastructure. My expertise lies in building resilient, distributed systems, optimizing deployment pipelines, and leveraging cloud services to solve complex architectural challenges.
 
 ---
 
-### 💻 Technical Expertise
+### Technical Expertise
 
 #### **Core Frontend**
 > Building scalable and interactive user interfaces.
@@ -35,14 +35,16 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ---
 
-### 📊 Engineering Metrics
+### Engineering Metrics
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hinduja30&theme=holi&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hinduja30&theme=holi&hide_border=false" alt="Hinduja30 GitHub Streak" />
+</p>
 
 ---
 
 <!--
-## ☁️ Cloud & Infrastructure Philosophy
+## Cloud & Infrastructure Philosophy
 
 I focus on building resilient, data-driven applications by implementing modern cloud-native principles:
 
@@ -56,7 +58,7 @@ I focus on building resilient, data-driven applications by implementing modern c
 ---
 -->
 
-### 🛠️ Technical Deep Dive
+### Technical Deep Dive
 
 * **Observability:** Moving beyond simple logging to full-stack tracing. I believe if you can't measure it, you can't improve it.
 * **Scalability:** Expert at transitioning monolithic MERN apps into microservices that scale out (Horizontal) rather than just scaling up (Vertical).
@@ -66,5 +68,5 @@ I focus on building resilient, data-driven applications by implementing modern c
 ---
 
 <p align="center">
-  <sub>Refined by Hinduja C • 2024</sub>
+  <sub>Refined by Hinduja C</sub>
 </p>
