@@ -40,7 +40,7 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 <div align="center">
 
 ![Isocalendar](./metrics.isocalendar.svg)
-![Stargazers](./metrics.stargazers.svg)
+![Activity](./metrics.activity.svg)
 ![Languages](./metrics.languages.svg)
 
 </div>
