@@ -22,11 +22,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.stargazers.svg
+          filename: metrics.habits.svg
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: graph
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
+          plugin_habits_from: 50
+          config_timezone: Asia/Kolkata
 
       - uses: lowlighter/metrics@latest
         with:
