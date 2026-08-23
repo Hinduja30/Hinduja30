@@ -37,10 +37,7 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ### Engineering Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hinduja30&theme=holi&hide_border=false" alt="Hinduja30 GitHub Streak" />
-</p>
-
+![Habits](./metrics.habits.svg)
 ---
 
 <!--
