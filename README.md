@@ -39,9 +39,9 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 <div align="center">
   
-![Isocalendar](./metrics.isocalendar.svg)
-![Stargazers](./metrics.stargazers.svg)
-![Languages](./metrics.languages.svg)
+[![Isocalendar](./metrics.isocalendar.svg)](./metrics.isocalendar.svg)
+[![Habits](./metrics.habits.svg)](./metrics.habits.svg)
+[![Languages](./metrics.languages.svg)](./metrics.languages.svg)
 
 </div>
 
