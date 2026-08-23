@@ -37,9 +37,13 @@ I am a **Software Engineer** dedicated to crafting high-performance, user-centri
 
 ### Engineering Metrics
 
+<div align="center">
+
 ![Isocalendar](./metrics.isocalendar.svg)
 ![Stargazers](./metrics.stargazers.svg)
-![Habits](./metrics.habits.svg)
+![Languages](./metrics.languages.svg)
+
+</div>
 
 ---
 
